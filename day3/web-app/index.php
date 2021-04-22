@@ -13,6 +13,7 @@
 <html>
     <head>
        <title> connecting to DB </title>
+
    </head>
    <body>
        <a  href="create.php">create new record </a><br><br>  <!-- we will create this file later -->
